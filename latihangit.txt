@@ -3,7 +3,6 @@ Ari Sudana
 
 Revisi 2
 
-- membuat akun github
 - mengetahui command dasar GIT
 - integrasi GIT
 - melakukan praktik GIT
