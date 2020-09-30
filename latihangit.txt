@@ -3,6 +3,7 @@ Ari Sudana
 
 Revisi 2
 
-- integrasi GIT
+- melakukan praktik GIT
+- melakukan kolaborasi GIT sebagai tugas
 - melakukan praktik GIT
 - melakukan kolaborasi GIT sebagai tugas
