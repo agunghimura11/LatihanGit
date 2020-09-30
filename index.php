@@ -1,5 +1,6 @@
 <html>
+<head>Latihan Git</head>
 <body>
-    <head>Latihan Git</head>
+    <p>Contoh latihan GIT DTS 2020</p>
 </body>
 </html>
