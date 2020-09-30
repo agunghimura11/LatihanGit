@@ -3,7 +3,6 @@ Ari Sudana
 
 Revisi 2
 
-- mengetahui command dasar GIT
 - integrasi GIT
 - melakukan praktik GIT
 - melakukan kolaborasi GIT sebagai tugas
